@@ -18,3 +18,4 @@ else
 {
     Console.WriteLine("Нет, это НЕ палиндром ");
 }
+
